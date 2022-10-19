@@ -1,0 +1,115 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: aqua;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.calculator {
+  border: 5px solid;
+  width: 200px;
+  height: 300px;
+  background-color: gray;
+  border-radius: 15px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
+}
+.input {
+  width: 192px;
+  height: 40px;
+  background-color: white;
+  border-radius: 20px;
+  border-style: double;
+  border: 2px solid black;
+}
+.clear {
+  margin: 10px;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  font-weight: bolder;
+  border: 5px solid darkgray;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  background-color: lightgray;
+  color: black;
+}
+.clear:active {
+  color: hsla(0, 0%, 2%, 0.877);
+}
+.divide {
+  margin: 5px;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  font-weight: bolder;
+  border: 5px solid darkgray;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  background-color: lightgray;
+  color: black;
+}
+.divide:active {
+  color: hsla(0, 0%, 2%, 0.877);
+}
+.firstlinebotton {
+  margin: 3px;
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  font-weight: bolder;
+  border: 5px solid darkgray;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  background-color: lightgray;
+  color: black;
+}
+.firstlinebotton:active {
+  color: hsla(0, 0%, 2%, 0.877);
+}
+.secondlinebotton {
+  margin: 3px;
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  font-weight: bolder;
+  border: 5px solid darkgray;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  background-color: lightgray;
+  color: black;
+}
+.secondlinebotton:active {
+  color: hsla(0, 0%, 2%, 0.877);
+}
+.thirdlinebotton {
+  margin: 3px;
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  font-weight: bolder;
+  border: 5px solid darkgray;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  background-color: lightgray;
+  color: black;
+}
+.thirdlinebotton:active {
+  color: hsla(0, 0%, 2%, 0.877);
+}
+.forthlinebotton {
+  margin: 3px;
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bolder;
+  border: 5px solid darkgray;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+  background-color: lightgray;
+  color: black;
+}
+.forthlinebotton:active {
+  color: hsla(0, 0%, 2%, 0.877);
+}
